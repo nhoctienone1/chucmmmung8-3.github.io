@@ -1,4 +1,4 @@
-const nameGirl = 'Bae Hoaif';
+const nameGirl = 'Bae Hoài';
 const giftUrl = 'https://www.facebook.com/profile.php?id=100009157854005';
 const eventName = 'Chúc Mừng 8-3';
 const titleCard = 'Tặng Bae Hoài';
